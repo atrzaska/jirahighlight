@@ -1,6 +1,6 @@
 {
-  "name": "MDecoder Highlighter",
-  "description": "Highlight missing bmw options for mdecoder.com",
+  "name": "JIRA Highlighter",
+  "description": "Highlight JIRA tags",
   "version": "0.1",
   "manifest_version": 3,
   "background": {
